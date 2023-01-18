@@ -40,8 +40,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BarisYildirim6&theme=dracula&include_all_commits=true&count_private=true)<br/>
+![Github Stats](https://github-readme-stats-barisyildirim6.vercel.app/api?username=BarisYildirim6&theme=dracula&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=BarisYildirim6&theme=dracula)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarisYildirim6&include_all_commits=true&count_private=true&theme=dracula)
+![](https://github-readme-stats-barisyildirim6.vercel.app/api/top-langs/?username=BarisYildirim6&include_all_commits=true&count_private=true&theme=dracula)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
