@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-- 🌞 I'm interested in Front-End & Back-End Development & Offensive Cybersecurity.<br>
+- 🌞 I'm interested in Full-stack Development & Cybersecurity.<br>
 - 🏫 I'm currently studying Computer Science at Bilkent University.<br>
 - 💻 Looking to collaborate on Web Development || Cybersecurity.<br>
 
