@@ -3,9 +3,9 @@
 </div>
 
 # 💫 About Me:
-- 🌞 I'm interested in Full-stack Development & Cybersecurity.<br>
+- 🌞 I'm interested in Network Management & Cybersecurity.<br>
 - 🏫 I'm currently studying Computer Science at Bilkent University.<br>
-- 💻 Looking to collaborate on Web Development || Cybersecurity.<br>
+- 💻 Looking to collaborate on Network Management || Cybersecurity.<br>
 
 
 ## 🌐 Socials:
